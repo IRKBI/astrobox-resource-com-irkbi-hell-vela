@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "com.irkbi.hell.vela",
+    "restype": "quick_app",
+    "name": "HELL",
+    "description": "玩法介绍：本作原版游戏为fnaf4的一个阴间同人，需要检查左右两侧的房门，可以通过开启手电筒来观察是否有玩具，如果看到玩具需要快速关门防止跳杀",
+    "preview": [
+      "media/1001002279.png"
+    ],
+    "icon": "media/1001002278.png",
+    "cover": "media/1001002276.png",
+    "author": [
+      {
+        "name": "IRKBI",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0",
+      "file_name": "downloads/com.irkbi.hell.vela.debug.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0",
+      "file_name": "downloads/com.irkbi.hell.vela.debug.1.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0",
+      "file_name": "downloads/com.irkbi.hell.vela.debug.1.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
